@@ -1,0 +1,12 @@
+{
+  "name": "poller",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node pooler.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
+
